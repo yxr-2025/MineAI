@@ -1,0 +1,16 @@
+.gradle/
+build/
+run/
+out/
+logs/
+*.log
+build-log.txt
+server-log.txt
+.gradle-dist/
+
+.idea/
+*.iml
+.vscode/
+eclipse/
+
+node_modules/
